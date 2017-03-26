@@ -21,3 +21,5 @@ Należy zainstalować ręcznie sterownik **Intel(R) HD Graphics 630** ze strony 
 7. Kliknąc `Dalej` i pozwolić na zainstalowanie sterownika.
 
 Po instalacji najlepiej jest zrestartować system Windows. Problem powinien zniknąć.
+
+[< Powrót](index.md)
